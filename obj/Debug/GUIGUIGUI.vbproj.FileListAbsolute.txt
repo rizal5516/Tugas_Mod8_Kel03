@@ -13,3 +13,17 @@ C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.vbproj.CopyC
 C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.exe
 C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.xml
 C:\Users\kenza\source\repos\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.pdb
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\bin\Debug\GUIGUIGUI.exe.config
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\bin\Debug\GUIGUIGUI.exe
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\bin\Debug\GUIGUIGUI.pdb
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\bin\Debug\GUIGUIGUI.xml
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\bin\Debug\TempConv.pdb
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.vbproj.AssemblyReference.cache
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.Form1.resources
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.Resources.resources
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.vbproj.GenerateResource.cache
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.vbproj.CopyComplete
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.exe
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.xml
+D:\Kuliah\Semester 7\Praktikum RPLBK\Modul 8\GUIGUIGUI\GUIGUIGUI\obj\Debug\GUIGUIGUI.pdb
